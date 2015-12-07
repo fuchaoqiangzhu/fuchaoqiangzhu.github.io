@@ -13,9 +13,9 @@
     </p>
 	<p>   你所在年级：<br/>
 		<div>
-			<input id="nianji" type="radio" name="nianji" value="yi" /><label for="nianji">大一</label>
-			<input id="nianji" type="radio" name="ninaji" value="er" /><label for="nianji">大二</label>
-			<input id="nianji" type="radio" name="nianji" value="san" /><label for="nianji">大三</label>
+			<input id="nianji" type="radio" name="xingbie" value="yi" /><label for="nianji">大一</label>
+			<input id="nianji" type="radio" name="xingbie" value="er" /><label for="nianji">大二</label>
+			<input id="nianji" type="radio" name="xingbie" value="san" /><label for="nianji">大三</label>
 		</div>
 	</p>
   
